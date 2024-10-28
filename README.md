@@ -11,7 +11,7 @@
 - Tech Interests: DSA, Astronomy, iOS and Swift Development
 
  🔗 Connect with Me
-- [LinkedIn](www.linkedin.com/in/theshubhamtripathi) 
+- LinkedIn: www.linkedin.com/in/theshubhamtripathi
 - Email: theshubhamtripathi06@gmail.com
 
  📂 My Projects
