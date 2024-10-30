@@ -17,7 +17,7 @@
  📂 My Projects
 Here are some things I'm working on or have worked on:
 - https://github.com/theshubhamtripathi/CODSOFT
-- 
+- https://github.com/theshubhamtripathi/PINNACLE-LABS
 
  ⚡ Fun Facts
 - 🪐 Love exploring space and astronomy
