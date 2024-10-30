@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="https://github.com/theshubhamtripathi/theshubhamtripathi/blob/main/github-header-image.png?raw=true"/>
+</h1>
 <h1 align="center">Hi 👋, I'm Shubham Tripathi!</h1>
 <h3 align="center">A passionate coder and learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
