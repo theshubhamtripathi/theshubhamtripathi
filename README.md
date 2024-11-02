@@ -2,7 +2,6 @@
   <img src="https://github.com/theshubhamtripathi/theshubhamtripathi/blob/main/github-header-image.png?raw=true"/>
 </h1>
 
-<h1 align="center">Hey there, I'm Shubham Tripathi! 👋</h1>
 <h3 align="center">Aspiring Coder | Workaholic | Passionate Learner</h3>
 
 <p align="center">
@@ -65,6 +64,13 @@
 ### 🌐 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamtripathi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theshubhamtripathi&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
