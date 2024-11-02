@@ -1,81 +1,77 @@
 <h1 align="center">
   <img src="https://github.com/theshubhamtripathi/theshubhamtripathi/blob/main/github-header-image.png?raw=true"/>
 </h1>
-<h1 align="center">Hi 👋, I'm Shubham Tripathi!</h1>
-<h3 align="center">A passionate coder and learner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-- 🔭 I’m currently working on [Codsoft](https://github.com/theshubhamtripathi/CODSOFT)
-  
+<h1 align="center">Hey there, I'm Shubham Tripathi! 👋</h1>
+<h3 align="center">Aspiring Coder | Workaholic | Passionate Learner</h3>
 
-- 🔭 I’m currently working on [Pinnacle-labs](https://github.com/theshubhamtripathi/PINNACLE-LABS)
-
-
-- 🌱 I’m currently learning **DSA (in c lang), IOS Dev (swift), Web Dev**
-
-
-- 📫 How to reach me **theshubhamtripathi06@gmail.com**
-
-<h3 align="left">Connect with me in the following :</h3>
-<p align="left">
-<a href="http://www.linkedin.com/in/theshubhamtripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/theshubhamtripathi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@theshubhamtripa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@theshubhamtripa1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nmkrnisp1p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nmkrnisp1p" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/theshubhamtripathi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/@theshubhamtripa1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/nmkrnisp1p" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:theshubhamtripathi06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools I have used:</h3>
-<p align="left"> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding" width="500"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🛠️ Current Projects
+
+- 🔭 Working on **[CodSoft](https://github.com/theshubhamtripathi/CODSOFT)** | **[Pinnacle Labs](https://github.com/theshubhamtripathi/PINNACLE-LABS)**
+- 🌱 Learning **DSA in C**, **iOS Development (Swift)**, and **Web Development**
+
+---
+
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theshubhamtripathi&show_icons=true&theme=radical" alt="Shubham's GitHub stats" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### 💬 Most Used Languages:
+---
+
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamtripathi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theshubhamtripathi&show_icons=true&theme=radical" alt="Shubham's GitHub stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshubhamtripathi&theme=radical&hide_border=true" alt="GitHub Streak" width="450"/>
 </p>
+
+---
+
+### 🚀 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamtripathi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
+</p>
+
+
+---
+
+### 📫 How to Reach Me
+
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/theshubhamtripathi) or shoot me an email at **theshubhamtripathi06@gmail.com**. Let’s collaborate and innovate together!
+
+---
+
+**Thanks for stopping by my GitHub! Happy coding! 😊**
