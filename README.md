@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hey there, I'm Shubham Tripathi! 👋</h1>
-<h3 align="center">Aspiring Coder | Cybersecurity Enthusiast | Passionate Learner</h3>
+<h3 align="center">Aspiring Coder | Workaholic | Passionate Learner</h3>
 
 <p align="center">
   <img align="center" alt="Coding at Work" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 8px;">
@@ -81,3 +81,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF" style="border-radius: 8px;">
 </p>
 
+<div align="center">
+  <h2>🌌 Exploring the World of Code & Tech 🌌</h2>
+  <p>Thank you for visiting my profile! Let's connect and make cool things together.</p>
+</div>
