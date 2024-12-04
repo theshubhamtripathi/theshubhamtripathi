@@ -63,8 +63,7 @@
 
 ### 🌐 Most Used Languages
 <p align="center">
-  <img src="https://<your-vercel-instance>.vercel.app/api/top-langs/?username=theshubhamtripathi&layout=compact&theme=radical&hide_border=true" width="400" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamtripathi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
 </p>
 
 ---
