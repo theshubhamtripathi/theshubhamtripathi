@@ -2,7 +2,7 @@
   <img src="https://github.com/theshubhamtripathi/theshubhamtripathi/blob/main/github-header-image.png?raw=true"/>
 </h1>
 
-<h3 align="center">Aspiring Coder | Workaholic | Passionate Learner</h3>
+<h3 align="center">Aspiring Coder || Workaholic || Passionate Learner</h3>
 
 <p align="center">
   <img align="center" alt="Coding at Work" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 8px;">
@@ -11,8 +11,9 @@
 ---
 
 ### 🔭 Currently Working On
-- [**Codsoft Projects**](https://github.com/theshubhamtripathi/CODSOFT)
-- [**Pinnacle Labs**](https://github.com/theshubhamtripathi/PINNACLE-LABS)
+- [**Portfolio Website**](https://github.com/theshubhamtripathi/Skill-Sharp-365-Innovation))
+- [**Card Game**](https://github.com/theshubhamtripathi/War-Card-Game-)
+- [**DSA**](https://github.com/theshubhamtripathi/My-DSA-repo..)
 
 ### 🌱 Learning
 - **Data Structures & Algorithms (in C)**, **iOS Development (Swift)**, and **Web Development**
