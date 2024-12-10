@@ -11,7 +11,7 @@
 ---
 
 ### 🔭 Currently Working On
-- [**Portfolio Website**](https://github.com/theshubhamtripathi/Skill-Sharp-365-Innovation))
+- [**Portfolio Website**](https://github.com/theshubhamtripathi/Skill-Sharp-365-Innovation)
 - [**Card Game**](https://github.com/theshubhamtripathi/War-Card-Game-)
 - [**DSA**](https://github.com/theshubhamtripathi/My-DSA-repo..)
 
