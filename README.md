@@ -16,7 +16,7 @@
 - [**DSA**](https://github.com/theshubhamtripathi/My-DSA-repo..)
 
 ### 🌱 Learning
-- **Data Structures & Algorithms (in C)**, **iOS Development (Swift)**, and **Web Development**
+- **Data Structures & Algorithms (in C++)**, **iOS Development (Swift)**, **Web Development** and **AI ML**
 
 ---
 
@@ -28,7 +28,7 @@
   <a href="https://www.hackerrank.com/@theshubhamtripa1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/nmkrnisp1p" target="_blank">
+  <a href="https://leetcode.com/u/6st786/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:theshubhamtripathi06@gmail.com">
@@ -65,20 +65,6 @@
 ### 🌐 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamtripathi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theshubhamtripathi&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-### 🔥 Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshubhamtripathi&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
