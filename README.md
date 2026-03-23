@@ -11,9 +11,9 @@
 ---
 
 ### 🔭 Currently Working On
-- [**Portfolio Website**](https://github.com/theshubhamtripathi/Skill-Sharp-365-Innovation)
-- [**Card Game**](https://github.com/theshubhamtripathi/War-Card-Game-)
-- [**DSA**](https://github.com/theshubhamtripathi/My-DSA-repo..)
+- [**FocusFlow**](https://github.com/theshubhamtripathi/focusflow)
+- [**HireGuard AI**](https://github.com/theshubhamtripathi/hireguard-ai)
+- [**NexLink**](https://github.com/theshubhamtripathi/nexlink)
 
 ### 🌱 Learning
 - **Data Structures & Algorithms (in C++)**, **iOS Development (Swift)**, **Web Development** and **AI ML**
