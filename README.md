@@ -62,13 +62,6 @@
 
 ---
 
-### 🌐 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamtripathi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF" style="border-radius: 8px;">
 </p>
