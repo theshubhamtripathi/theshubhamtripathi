@@ -123,20 +123,13 @@ I'm **Shubham** — I build software that feels effortless to use, obsess over c
 <table align="center">
 <tr>
 <td width="50%">
-<a href="https://github.com/theshubhamtripathi/FocusFlow">
+<a href="https://github.com/theshubhamtripathi/focusflow">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=FocusFlow&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b&hide_border=false"/>
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/theshubhamtripathi/HireGuard-AI">
+<a href="https://github.com/theshubhamtripathi/hireguard-ai">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=HireGuard-AI&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b&hide_border=false"/>
-</a>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<a href="https://github.com/theshubhamtripathi/NexLink">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=NexLink&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b&hide_border=false"/>
 </a>
 </td>
 </tr>
