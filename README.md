@@ -103,10 +103,6 @@ I'm **Shubham** — I build software that feels effortless to use, obsess over c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamtripathi&layout=compact&theme=dark&title_color=16c68e&text_color=ffffff&bg_color=121212&border_color=2b2b2b&hide_border=false&langs_count=8" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theshubhamtripathi&theme=darkhub&no-frame=false&no-bg=true&margin-w=12&column=7"/>
-</p>
-
 <br/>
 
 <p align="center">
@@ -124,12 +120,10 @@ I'm **Shubham** — I build software that feels effortless to use, obsess over c
 <tr>
 <td width="50%">
 <a href="https://github.com/theshubhamtripathi/focusflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=FocusFlow&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b&hide_border=false"/>
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/theshubhamtripathi/hireguard-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=HireGuard-AI&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b&hide_border=false"/>
 </a>
 </td>
 </tr>
@@ -153,7 +147,11 @@ I'm **Shubham** — I build software that feels effortless to use, obsess over c
 
 <br/>
 
-<img src="giphy.gif" width="380" alt="Late night coding session" style="border-radius: 12px;"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" alt="Late night coding session"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Developer.gif" width="250" alt="Developer vibes"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Team.gif" width="250" alt="Let's build together"/>
+</p>
 
 <br/><br/>
 
