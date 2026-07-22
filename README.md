@@ -99,10 +99,6 @@ I'm **Shubham** — I build software that feels effortless to use, obsess over c
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshubhamtripathi&theme=dark&background=121212&ring=16c68e&fire=16c68e&currStreakLabel=16c68e&border=2b2b2b&hide_border=false" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamtripathi&layout=compact&theme=dark&title_color=16c68e&text_color=ffffff&bg_color=121212&border_color=2b2b2b&hide_border=false&langs_count=8" height="180"/>
-</p>
-
 <br/>
 
 <p align="center">
@@ -118,12 +114,16 @@ I'm **Shubham** — I build software that feels effortless to use, obsess over c
 
 <table align="center">
 <tr>
-<td width="50%">
-<a href="https://github.com/theshubhamtripathi/focusflow">
+<td width="50%" valign="top" align="center">
+<h3>🎯 FocusFlow</h3>
+<a href="https://github.com/theshubhamtripathi/FocusFlow">
+  <img src="https://img.shields.io/badge/View_Repo-121212?style=for-the-badge&logo=github&logoColor=16C68E"/>
 </a>
 </td>
-<td width="50%">
-<a href="https://github.com/theshubhamtripathi/hireguard-ai">
+<td width="50%" valign="top" align="center">
+<h3>🛡️ HireGuard AI</h3>
+<a href="https://github.com/theshubhamtripathi/HireGuard-AI">
+  <img src="https://img.shields.io/badge/View_Repo-121212?style=for-the-badge&logo=github&logoColor=16C68E"/>
 </a>
 </td>
 </tr>
@@ -144,13 +144,12 @@ I'm **Shubham** — I build software that feels effortless to use, obsess over c
 
 <!-- ================= SECTION: CONNECT ================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=LET'S%20CONNECT&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
-
 <br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" alt="Late night coding session"/>
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Developer.gif" width="250" alt="Developer vibes"/>
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Team.gif" width="250" alt="Let's build together"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="250" alt="Developer at work"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="250" alt="Building the web"/>
 </p>
 
 <br/><br/>
