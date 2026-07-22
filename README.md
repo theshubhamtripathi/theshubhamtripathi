@@ -1,139 +1,196 @@
 <div align="center">
 
-<!-- TOP HEADER BANNER -->
+<!-- ================= TOP HEADER BANNER (UNCHANGED) ================= -->
 <img src="github-header-image.png" width="100%" alt="Header Banner" />
 
-<br><br>
+<br/>
 
-<!-- FIXED TYPING ANIMATION (MINT & WHITE) -->
+<!-- ================= ANIMATED INTRO ================= -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=25&pause=1000&color=16C68E&center=true&vcenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22)%3B;Aspiring+Coder+%7C%7C+Passionate+Learner;iOS+%26+Full-Stack+Developer;Always+Building+%26+Shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=16C68E&center=true&vcenter=true&random=false&width=650&height=60&lines=Hi%2C+I'm+Shubham+%F0%9F%91%8B;iOS+%26+Full-Stack+Developer;Building+FocusFlow+%7C+HireGuard-AI+%7C+NexLink;Currently+deep+in+Swift+Concurrency+%2B+ML" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br/>
 
-<!-- FIRST CODING GIF -->
-<img src="giphy.gif" width="450" alt="Coding GIF" />
+<!-- Thin gradient rule for separation -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:121212,100:16C68E&height=3&width=100%25" width="100%"/>
 
-<br><br><br>
+<br/><br/>
 
-<!-- SECTION 1: FEATURED PROJECTS (FIXED MINT BANNER) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=120&section=header&text=FEATURED%20PROJECTS&fontSize=30&fontColor=121212&animation=twinkle" width="100%" alt="Featured Projects Header" />
+<!-- ================= QUICK STATUS ROW ================= -->
+<img src="https://img.shields.io/badge/Status-Available_for_Collabs-16C68E?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=121212"/>
+<img src="https://img.shields.io/badge/Focus-Native_%2B_Intelligent_Backends-16C68E?style=for-the-badge&logo=target&logoColor=white&labelColor=121212"/>
+<img src="https://img.shields.io/badge/Based_in-Bhopal%2C_India-16C68E?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=121212"/>
 
-<br><br>
+<br/><br/><br/>
 
-<!-- CLEAN REPO PINS (NO BROKEN TABLE TAGS) -->
-<p align="center">
-  <a href="https://github.com/theshubhamtripathi/FocusFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=FocusFlow&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b" alt="FocusFlow" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/theshubhamtripathi/HireGuard-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=HireGuard-AI&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b" alt="HireGuard AI" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/theshubhamtripathi/NexLink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=NexLink&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b" alt="NexLink" />
-  </a>
-</p>
+<!-- ================= SECTION: ABOUT ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=WHO%20I%20AM&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
 
-<br><br>
+<br/>
 
-<!-- SECTION 2: TECH STACK -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=120&section=header&text=MY%20TECH%20STACK&fontSize=30&fontColor=121212&animation=twinkle" width="100%" alt="Tech Stack Header" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<br><br>
+<h3 align="left">👋 A developer who ships, not just plans.</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,swift,python,html,css,git,java,linux,gcp&perline=10" alt="My Skills" />
-  </a>
-</p>
+I'm **Shubham** — I build software that feels effortless to use, obsess over clean architecture, and genuinely enjoy the moment a stubborn bug finally clicks into place.
 
-<br>
+<br/>
 
-<!-- INTERACTIVE COLLAPSIBLE BIO -->
+**🌱 Currently learning** → Advanced Swift concurrency & actor isolation, ML model deployment pipelines
+**🎯 Currently building** → Bridging native iOS experiences with intelligent, scalable backend systems
+**💬 Ask me about** → iOS architecture, clean code practices, or shipping side projects fast
+**⚡ Fun fact** → I'd rather spend an hour debugging than ten minutes guessing
+
+</td>
+<td width="45%" align="center">
+<img src="giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <details>
-  <summary><b>🔍 Tap to discover more about me!</b></summary>
-  <br>
-  <p align="left">
-    👋 Hi there! I'm <b>Shubham</b>, a developer driven by continuous iteration, clean code, and building software that feels effortless to use.<br><br>
-    🌱 <b>Currently learning:</b> Advanced Swift concurrency patterns & Machine Learning model deployment.<br>
-    💡 <b>Fun fact:</b> I genuinely enjoy debugging — there's nothing quite like finding that one missing line that makes everything click.<br>
-    🎯 <b>Current Focus:</b> Bridging native iOS experiences with intelligent backend systems.
-  </p>
+<summary><b>🔍 Tap for the deeper cut — how I think about building software</b></summary>
+<br/>
+
+> I treat every project like a product, not a script — README first, structure second, features third.
+> I believe the best code is the code a teammate can read at 2 AM without a Slack message to you.
+> I ship in small, working increments — momentum beats perfection.
+
 </details>
 
-<br><br>
+<br/><br/>
 
-<!-- SECTION 3: GITHUB METRICS -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=120&section=header&text=GITHUB%20METRICS&fontSize=30&fontColor=121212&animation=twinkle" width="100%" alt="Github Metrics Header" />
+<!-- ================= SECTION: TECH STACK ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=TECH%20STACK&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
 
-<br><br>
+<br/>
 
-<!-- FIXED SIDE-BY-SIDE STATS -->
 <p align="center">
-  <a href="https://github.com/theshubhamtripathi">
-    <img src="https://github-readme-stats.vercel.app/api?username=theshubhamtripathi&show_icons=true&theme=dark&title_color=16c68e&icon_color=16c68e&text_color=ffffff&bg_color=121212&border_color=2b2b2b" alt="Shubham's GitHub Stats" height="165" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/theshubhamtripathi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshubhamtripathi&theme=dark&background=121212&ring=16c68e&fire=16c68e&currStreakLabel=16c68e&border=2b2b2b" alt="Shubham's GitHub Streak" height="165" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=swift,c,cpp,python,java,html,css,git,linux,gcp&perline=10&theme=dark"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+<br/><br/>
+
+<!-- ================= SECTION: METRICS ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=GITHUB%20METRICS&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theshubhamtripathi&show_icons=true&theme=dark&title_color=16c68e&icon_color=16c68e&text_color=ffffff&bg_color=121212&border_color=2b2b2b&hide_border=false&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshubhamtripathi&theme=dark&background=121212&ring=16c68e&fire=16c68e&currStreakLabel=16c68e&border=2b2b2b&hide_border=false" height="165"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=theshubhamtripathi&theme=darkhub&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamtripathi&layout=compact&theme=dark&title_color=16c68e&text_color=ffffff&bg_color=121212&border_color=2b2b2b&hide_border=false&langs_count=8" height="180"/>
 </p>
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theshubhamtripathi/theshubhamtripathi/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theshubhamtripathi&theme=darkhub&no-frame=false&no-bg=true&margin-w=12&column=7"/>
 </p>
 
-<br><br>
+<br/>
 
-<!-- SECTION 4: LET'S CONNECT (ENHANCED & RICH) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=120&section=header&text=LET'S%20CONNECT&fontSize=30&fontColor=121212&animation=twinkle" width="100%" alt="Lets Connect Header" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theshubhamtripathi&theme=react-dark&bg_color=121212&color=16c68e&line=16c68e&point=ffffff&area=true&hide_border=false"/>
+</p>
 
-<br><br>
+<br/><br/>
 
-<!-- SECOND CODING GIF -->
-<img src="giphy.gif" width="400" alt="Late night coding session" />
+<!-- ================= SECTION: FEATURED PROJECTS ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=FEATURED%20PROJECTS&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
 
-<br><br>
+<br/>
 
-<!-- SOCIAL BADGES GRID -->
+<table align="center">
+<tr>
+<td width="50%">
+<a href="https://github.com/theshubhamtripathi/FocusFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=FocusFlow&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b&hide_border=false"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/theshubhamtripathi/HireGuard-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=HireGuard-AI&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b&hide_border=false"/>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/theshubhamtripathi/NexLink">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theshubhamtripathi&repo=NexLink&theme=dark&title_color=16c68e&icon_color=16c68e&bg_color=121212&border_color=2b2b2b&hide_border=false"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ================= SECTION: CONTRIBUTION SNAKE (UNCHANGED WORKFLOW) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theshubhamtripathi/theshubhamtripathi/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
+<br/><br/>
+
+<!-- ================= SECTION: CONNECT ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=LET'S%20CONNECT&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
+
+<br/>
+
+<img src="giphy.gif" width="380" alt="Late night coding session" style="border-radius: 12px;"/>
+
+<br/><br/>
+
 <p align="center">
   <a href="https://linkedin.com/in/theshubhamtripathi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://twitter.com/theshubhamtripathi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/theshubhamtripathi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=16C68E"/>
   </a>
 </p>
 
-<br>
-
-<!-- LIVE VIEW COUNTER & MESSAGE -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theshubhamtripathi&color=16c68e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<br>
+<br/>
 
 <p align="center">
-  <i>I'm always open to discussing advanced native architecture, ML workflows, or scalable systems.<br>Got an idea or want to collaborate? Reach out and let's ship something great together!</i>
+  <img src="https://komarev.com/ghpvc/?username=theshubhamtripathi&color=16c68e&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
-<br>
+<br/>
+
+<p align="center">
+  <i>Always open to discussing native architecture, ML workflows, or scalable systems.<br/>
+  Got an idea worth building? Let's ship it together. 🚀</i>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=100&section=footer" width="100%"/>
 
 </div>
