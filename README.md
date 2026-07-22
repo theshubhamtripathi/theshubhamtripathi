@@ -46,7 +46,7 @@ I'm **Shubham** — I build software that feels effortless to use, obsess over c
 
 </td>
 <td width="45%" align="center">
-<img src="giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF"/>
 </td>
 </tr>
 </table>
