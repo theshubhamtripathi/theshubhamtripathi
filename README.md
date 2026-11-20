@@ -72,7 +72,7 @@ I build **secure, scalable backends and the products on top of them**: Spring Bo
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="22" alt="AWS" /> &nbsp;Certifications</h3>
-      <a href="[[ADD_AWS_SAA_CREDLY_URL](https://www.linkedin.com/feed/update/urn:li:activity:7481527695387029504/)]"><img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate%20%C2%B7%20SAA--C03-16C68E?style=for-the-badge&labelColor=121212" alt="AWS Certified Solutions Architect – Associate (SAA-C03)" /></a>
+      <a href="[[https://www.linkedin.com/feed/update/urn:li:activity:7481527695387029504/]]"><img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate%20%C2%B7%20SAA--C03-16C68E?style=for-the-badge&labelColor=121212" alt="AWS Certified Solutions Architect – Associate (SAA-C03)" /></a>
       <br/><br/>
       <a href="[ADD_AWS_AIF_CREDLY_URL]"><img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-AIF--C01-16C68E?style=for-the-badge&labelColor=121212" alt="AWS Certified AI Practitioner (AIF-C01)" /></a>
       <br/><br/>
