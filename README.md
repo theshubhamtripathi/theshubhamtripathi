@@ -87,7 +87,7 @@ I build **secure, scalable backends and the products on top of them**: Spring Bo
       <br/><br/>
       <a href="[ADD_CODECHEF_PROFILE_URL]"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20%C2%B7%201692-16C68E?style=for-the-badge&logo=codechef&logoColor=white&labelColor=121212" alt="CodeChef 3 Star 1692" /></a>
       <br/><br/>
-      <a href="[ADD_LEETCODE_PROFILE_URL]"><img src="https://img.shields.io/badge/LeetCode-1552-16C68E?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=121212" alt="LeetCode 1552" /></a>
+      <a href="[(https://leetcode.com/u/6st786/)]"><img src="https://img.shields.io/badge/LeetCode-1552-16C68E?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=121212" alt="LeetCode 1552" /></a>
     </td>
   </tr>
 </table>
