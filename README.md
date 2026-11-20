@@ -1,186 +1,61 @@
-<div align="center">
-
-<!-- ================= TOP HEADER BANNER (UNCHANGED) ================= -->
-<img src="github-header-image.png" width="100%" alt="Header Banner" />
-
-<br/>
-
-<!-- ================= ANIMATED INTRO ================= -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=16C68E&center=true&vcenter=true&random=false&width=650&height=60&lines=Hi%2C+I'm+Shubham+%F0%9F%91%8B;iOS+%26+Full-Stack+Developer;Building+FocusFlow+%7C+HireGuard-AI+%7C+NexLink;Currently+deep+in+Swift+Concurrency+%2B+ML" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Thin gradient rule for separation -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:121212,100:16C68E&height=3&width=100%25" width="100%"/>
+<img src="github-header-image.png" width="100%" alt="Header Banner" /> <div align="center"> <a href="https://github.com/theshubhamtripathi"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=16C68E&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%E2%80%94+Java+%26+React;Spring+Boot+Microservices+That+Scale;Event-Driven+Systems+with+Apache+Kafka;AI-Powered+Backends+with+Gemini;AWS+Certified+Solutions+Architect" alt="Typing SVG" /> </a> <h3>Shubham Tripathi</h3> <p><b>Full Stack Developer</b> &nbsp;|&nbsp; Java (Spring Boot) &amp; React &nbsp;|&nbsp; Microservices, Event-Driven Systems &amp; AI Backends</p> <p>📍 Bhopal, India &nbsp;·&nbsp; 🎓 B.Tech CSE @ VIT Bhopal (2023–2027)</p>
+<a href="https://www.linkedin.com/in/theshubhamtripathi/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn" /></a>  <a href="mailto:theshubhamtripathi06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Email" /></a>  <a href="https://github.com/theshubhamtripathi"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub" /></a>
 
 <br/><br/>
 
-<!-- ================= QUICK STATUS ROW ================= -->
-<img src="https://img.shields.io/badge/Status-Available_for_Collabs-16C68E?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=121212"/>
-<img src="https://img.shields.io/badge/Focus-Native_%2B_Intelligent_Backends-16C68E?style=for-the-badge&logo=target&logoColor=white&labelColor=121212"/>
-<img src="https://img.shields.io/badge/Based_in-Bhopal%2C_India-16C68E?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=121212"/>
+<!-- PORTFOLIO BADGE: swap the href below if your portfolio URL changes --> <a href="https://theshubhamtripathi.github.io/Personal-Portfolio-cosmic-/"> <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work%20%E2%86%92-16C68E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=121212" alt="Portfolio" /> </a> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:121212,50:16C68E,100:121212&height=3" width="100%" alt="divider" /> <div align="center"> <table> <tr> <td align="center" width="25%"><h3>9.33</h3><sub>CGPA · VIT Bhopal</sub></td> <td align="center" width="25%"><h3>2× AWS</h3><sub>Certified · SAA &amp; AIF</sub></td> <td align="center" width="25%"><h3>700+</h3><sub>DSA / CP Problems</sub></td> <td align="center" width="25%"><h3>10</h3><sub>Microservices in HireSphere</sub></td> </tr> </table> </div>
+01 About
+I build secure, scalable backends and the products on top of them — from Spring Boot microservices talking over Kafka, to React dashboards behind enterprise SSO, to AI features wired into real workflows. I care about clean architecture, observable failure modes, and code that's easy for the next engineer to read.
 
-<br/><br/><br/>
+public class ShubhamTripathi {
 
-<!-- ================= SECTION: ABOUT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=WHO%20I%20AM&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
+    String role        = "Full Stack Developer — Java (Spring Boot) & React";
+    String currently   = "Software Development Intern @ EXL";
+    List<String> focus = List.of("Microservices", "Event-Driven Systems", "AI Backends");
+    String education   = "B.Tech CSE @ VIT Bhopal · 2023–2027 · CGPA 9.33";
+    List<String> certs = List.of("AWS SAA-C03", "AWS AIF-C01");
+    int problemsSolved = 700; // and counting
 
-<br/>
+    String ping() { return "theshubhamtripathi06@gmail.com"; }
+}
+02 Experience
+🏢 Software Development Intern · EXL
+<sub><b>Nov 2026 – May 2027</b>  ·  Enterprise Employee Project & Allocation Dashboard</sub>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+Full-stack platform — Built an enterprise dashboard with React, Java Spring Boot & Microsoft SQL Server; REST APIs on the Controller-Service-Repository pattern with DTOs, Spring Data JPA/Hibernate and Pageable pagination.
+Enterprise SSO & RBAC — Secured frontend routes and backend endpoints with Microsoft Entra ID SSO (OAuth 2.0 / OpenID Connect), MSAL, Spring Security and JWT validation, enforcing EMPLOYEE / MANAGER roles.
+Analytics & quality — Shipped utilization and skill-distribution dashboards (Recharts / Chart.js) with multi-filter search, backed by global exception handling, OpenAPI/Swagger docs and JUnit/Mockito tests.
+<img src="https://img.shields.io/badge/Spring%20Boot-0E3B2E?style=flat-square" alt="Spring Boot" /> <img src="https://img.shields.io/badge/React-0E3B2E?style=flat-square" alt="React" /> <img src="https://img.shields.io/badge/MS%20SQL%20Server-0E3B2E?style=flat-square" alt="MS SQL Server" /> <img src="https://img.shields.io/badge/Entra%20ID%20SSO-0E3B2E?style=flat-square" alt="Entra ID SSO" /> <img src="https://img.shields.io/badge/OAuth%202.0%20%C2%B7%20OIDC-0E3B2E?style=flat-square" alt="OAuth 2.0 OIDC" /> <img src="https://img.shields.io/badge/Spring%20Security-0E3B2E?style=flat-square" alt="Spring Security" /> <img src="https://img.shields.io/badge/JWT-0E3B2E?style=flat-square" alt="JWT" /> <img src="https://img.shields.io/badge/OpenAPI-0E3B2E?style=flat-square" alt="OpenAPI" /> <img src="https://img.shields.io/badge/JUnit%20%C2%B7%20Mockito-0E3B2E?style=flat-square" alt="JUnit Mockito" />
 
-<h3 align="left">👋 A developer who ships, not just plans.</h3>
-
-I'm **Shubham** — I build software that feels effortless to use, obsess over clean architecture, and genuinely enjoy the moment a stubborn bug finally clicks into place.
-
-<br/>
-
-**🌱 Currently learning** → Advanced Swift concurrency & actor isolation, ML model deployment pipelines
-**🎯 Currently building** → Bridging native iOS experiences with intelligent, scalable backend systems
-**💬 Ask me about** → iOS architecture, clean code practices, or shipping side projects fast
-**⚡ Fun fact** → I'd rather spend an hour debugging than ten minutes guessing
-
-</td>
-<td width="45%" align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<details>
-<summary><b>🔍 Tap for the deeper cut — how I think about building software</b></summary>
-<br/>
-
-> I treat every project like a product, not a script — README first, structure second, features third.
-> I believe the best code is the code a teammate can read at 2 AM without a Slack message to you.
-> I ship in small, working increments — momentum beats perfection.
-
+03 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h3>🚀 HireSphere</h3> <p><b>AI-Powered Job Portal</b> — a production-style microservices platform with AI-assisted hiring workflows.</p> <p> <img src="https://img.shields.io/badge/Java%2021-0E3B2E?style=flat-square" alt="Java 21" /> <img src="https://img.shields.io/badge/Spring%20Boot-0E3B2E?style=flat-square" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Apache%20Kafka-0E3B2E?style=flat-square" alt="Apache Kafka" /> <img src="https://img.shields.io/badge/React-0E3B2E?style=flat-square" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-0E3B2E?style=flat-square" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-0E3B2E?style=flat-square" alt="Redis" /> <img src="https://img.shields.io/badge/Docker-0E3B2E?style=flat-square" alt="Docker" /> <img src="https://img.shields.io/badge/Gemini%20API-0E3B2E?style=flat-square" alt="Gemini API" /> </p> <ul> <li><b>10 Spring Boot microservices</b> behind an API Gateway — Eureka, Config Server, DB-per-service</li> <li><b>JWT + RBAC</b> auth, <b>Redis rate limiting</b> &amp; <b>Resilience4j</b> circuit breakers</li> <li><b>6 Kafka topics</b> driving async, event-driven workflows</li> <li><b>8 Gemini AI features</b> + Razorpay payments</li> <li>CI with <b>GitHub Actions</b> &amp; <b>Testcontainers</b> integration tests</li> </ul> <a href="https://github.com/theshubhamtripathi/hiresphere"><img src="https://img.shields.io/badge/View%20Repo-121212?style=for-the-badge&logo=github&logoColor=16C68E" alt="HireSphere Repo" /></a> </td> <td width="50%" valign="top"> <h3>🔗 SwiftURL</h3> <p><b>URL Shortener Service</b> — a lean, well-tested backend service built on a clean layered architecture.</p> <p> <img src="https://img.shields.io/badge/Java-0E3B2E?style=flat-square" alt="Java" /> <img src="https://img.shields.io/badge/Spring%20Boot-0E3B2E?style=flat-square" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-0E3B2E?style=flat-square" alt="Spring Data JPA" /> <img src="https://img.shields.io/badge/Hibernate-0E3B2E?style=flat-square" alt="Hibernate" /> <img src="https://img.shields.io/badge/REST%20APIs-0E3B2E?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/SQL-0E3B2E?style=flat-square" alt="SQL" /> <img src="https://img.shields.io/badge/JUnit-0E3B2E?style=flat-square" alt="JUnit" /> <img src="https://img.shields.io/badge/Mockito-0E3B2E?style=flat-square" alt="Mockito" /> </p> <ul> <li>Clean <b>Controller-Service-Repository</b> layering</li> <li><b>Unique-code constraints</b> for collision-safe short links</li> <li><b>Centralized exception handling</b> &amp; request validation</li> <li>Unit-tested with <b>JUnit + Mockito</b></li> <li><b>Container-ready</b> for one-command deployment</li> </ul> <a href="https://github.com/theshubhamtripathi/SwiftURL"><img src="https://img.shields.io/badge/View%20Repo-121212?style=for-the-badge&logo=github&logoColor=16C68E" alt="SwiftURL Repo" /></a> </td> </tr> </table> <details> <summary><b>🧭 HireSphere architecture at a glance</b></summary> <br/>
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#121212','primaryTextColor':'#FFFFFF','primaryBorderColor':'#16C68E','lineColor':'#16C68E','secondaryColor':'#121212','tertiaryColor':'#121212','fontFamily':'monospace'}}}%%
+flowchart LR
+    UI["React Client"] --> GW["API Gateway<br/>JWT · RBAC"]
+    GW -.-> RL[("Redis<br/>Rate Limiting")]
+    REG["Eureka<br/>Service Discovery"] -.- GW
+    GW --> SVC["10 Spring Boot Microservices<br/>Resilience4j Circuit Breakers"]
+    CFG["Config Server"] -.- SVC
+    SVC <--> K[("Apache Kafka<br/>6 Async Topics")]
+    SVC --> DB[("PostgreSQL<br/>DB-per-Service")]
+    SVC --> AI["Gemini API<br/>8 AI Features"]
+    SVC --> PAY["Razorpay"]
 </details>
+04 Tech Stack
+Domain	Tools
+Languages	<img src="https://skillicons.dev/icons?i=java,cpp,py&theme=dark" height="40" alt="Java, C++, Python" />
+<img src="https://img.shields.io/badge/SQL-121212?style=for-the-badge" alt="SQL" />
+Backend & Distributed Systems	<img src="https://skillicons.dev/icons?i=spring,fastapi,kafka&theme=dark" height="40" alt="Spring Boot, FastAPI, Apache Kafka" />
+<img src="https://img.shields.io/badge/Spring%20Security-121212?style=for-the-badge&logo=springsecurity&logoColor=16C68E" alt="Spring Security" /> <img src="https://img.shields.io/badge/REST%20APIs-121212?style=for-the-badge" alt="REST APIs" /> <img src="https://img.shields.io/badge/Microservices-121212?style=for-the-badge" alt="Microservices" /> <img src="https://img.shields.io/badge/WebSockets%20%C2%B7%20Socket.io-121212?style=for-the-badge&logo=socketdotio&logoColor=16C68E" alt="WebSockets / Socket.io" /> <img src="https://img.shields.io/badge/JWT-121212?style=for-the-badge&logo=jsonwebtokens&logoColor=16C68E" alt="JWT" />
+Frontend	<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" height="40" alt="React, Tailwind CSS, HTML5, CSS3" />
+Databases & Caching	<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" height="40" alt="PostgreSQL, MySQL, Redis" />
+Cloud & DevOps	<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux&theme=dark" height="40" alt="AWS, Docker, Git, GitHub Actions, Linux" />
+05 Credentials & Problem Solving
+<table> <tr> <td width="50%" valign="top"> <h3><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="22" alt="AWS" /> &nbsp;Certifications</h3> <a href="[ADD_AWS_SAA_CREDLY_URL]"><img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate%20%C2%B7%20SAA--C03-16C68E?style=for-the-badge&labelColor=121212" alt="AWS Certified Solutions Architect – Associate (SAA-C03)" /></a> <br/><br/> <a href="[ADD_AWS_AIF_CREDLY_URL]"><img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-AIF--C01-16C68E?style=for-the-badge&labelColor=121212" alt="AWS Certified AI Practitioner (AIF-C01)" /></a> <br/><br/> <h3>🤝 Community</h3> <img src="https://img.shields.io/badge/Freelancing%20Club%20%C2%B7%20VIT%20Bhopal-Technical%20Core%20Member-16C68E?style=for-the-badge&labelColor=121212" alt="Technical Core Member, Freelancing Club, VIT Bhopal" /> </td> <td width="50%" valign="top"> <h3>⚔️ Competitive Programming</h3> <img src="https://img.shields.io/badge/DSA%20%26%20CP-700%2B%20Problems%20Solved-16C68E?style=for-the-badge&labelColor=121212" alt="700+ Problems Solved" /> <br/><br/> <a href="[ADD_CODEFORCES_PROFILE_URL]"><img src="https://img.shields.io/badge/Codeforces-Pupil%20%C2%B7%201360-16C68E?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=121212" alt="Codeforces Pupil 1360" /></a> <br/><br/> <a href="[ADD_CODECHEF_PROFILE_URL]"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20%C2%B7%201692-16C68E?style=for-the-badge&logo=codechef&logoColor=white&labelColor=121212" alt="CodeChef 3 Star 1692" /></a> <br/><br/> <a href="[ADD_LEETCODE_PROFILE_URL]"><img src="https://img.shields.io/badge/LeetCode-1552-16C68E?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=121212" alt="LeetCode 1552" /></a> </td> </tr> </table>
+06 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theshubhamtripathi&show_icons=true&hide_border=true&bg_color=121212&title_color=16C68E&icon_color=16C68E&text_color=C9D1D9&ring_color=16C68E&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=21600" height="170" alt="GitHub Stats" /> <img src="https://streak-stats.demolab.com/?user=theshubhamtripathi&hide_border=true&background=121212&ring=16C68E&fire=16C68E&currStreakLabel=16C68E&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=2A2A2A" height="170" alt="GitHub Streak" /> <br/><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=theshubhamtripathi&bg_color=121212&color=C9D1D9&title_color=16C68E&line=16C68E&point=FFFFFF&area=true&area_color=16C68E&hide_border=true&radius=8&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" /> <br/><br/> <img src="https://raw.githubusercontent.com/theshubhamtripathi/theshubhamtripathi/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:121212,50:16C68E,100:121212&height=3" width="100%" alt="divider" /> <div align="center"> <h3>Open to Backend &amp; Full Stack SDE opportunities — let's build systems that scale.</h3>
+<a href="mailto:theshubhamtripathi06@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-16C68E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=121212" alt="Email" /></a> <a href="https://www.linkedin.com/in/theshubhamtripathi/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-16C68E?style=for-the-badge&labelColor=121212" alt="LinkedIn" /></a>
 
 <br/><br/>
 
-<!-- ================= SECTION: TECH STACK ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=TECH%20STACK&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,c,cpp,python,java,html,css,git,linux,gcp&perline=10&theme=dark"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
-
-<br/><br/>
-
-<!-- ================= SECTION: METRICS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=GITHUB%20METRICS&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theshubhamtripathi&show_icons=true&theme=dark&title_color=16c68e&icon_color=16c68e&text_color=ffffff&bg_color=121212&border_color=2b2b2b&hide_border=false&rank_icon=github" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshubhamtripathi&theme=dark&background=121212&ring=16c68e&fire=16c68e&currStreakLabel=16c68e&border=2b2b2b&hide_border=false" height="165"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theshubhamtripathi&theme=react-dark&bg_color=121212&color=16c68e&line=16c68e&point=ffffff&area=true&hide_border=false"/>
-</p>
-
-<br/><br/>
-
-<!-- ================= SECTION: FEATURED PROJECTS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=FEATURED%20PROJECTS&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top" align="center">
-<h3>🎯 FocusFlow</h3>
-<a href="https://github.com/theshubhamtripathi/FocusFlow">
-  <img src="https://img.shields.io/badge/View_Repo-121212?style=for-the-badge&logo=github&logoColor=16C68E"/>
-</a>
-</td>
-<td width="50%" valign="top" align="center">
-<h3>🛡️ HireGuard AI</h3>
-<a href="https://github.com/theshubhamtripathi/HireGuard-AI">
-  <img src="https://img.shields.io/badge/View_Repo-121212?style=for-the-badge&logo=github&logoColor=16C68E"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br/><br/>
-
-<!-- ================= SECTION: CONTRIBUTION SNAKE (UNCHANGED WORKFLOW) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/theshubhamtripathi/theshubhamtripathi/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-
-<br/><br/>
-
-<!-- ================= SECTION: CONNECT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=110&section=header&text=LET'S%20CONNECT&fontSize=28&fontColor=121212&animation=twinkle&fontAlignY=38" width="100%"/>
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" height="180" alt="Late night coding session"/>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="250" height="180" alt="Developer at work"/>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="250" height="180" alt="Building the web"/>
-</p>
-
-<br/><br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/theshubhamtripathi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/theshubhamtripathi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=16C68E"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theshubhamtripathi&color=16c68e&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <i>Always open to discussing native architecture, ML workflows, or scalable systems.<br/>
-  Got an idea worth building? Let's ship it together. 🚀</i>
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16c68e&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=theshubhamtripathi&label=Profile%20Views&color=16C68E&style=for-the-badge&abbreviated=true" alt="Profile Views" /> <br/> <sub>Built with ☕ Java, ⚡ Spring Boot and a lot of curiosity.</sub> </div>  
