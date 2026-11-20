@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" fill="none" role="img" aria-label="Let's build systems that scale. Open to Backend and Full Stack SDE opportunities.">
+<title>Let's build systems that scale. Open to Backend and Full Stack SDE opportunities.</title>
+<style>
+.mono{font-family:'JetBrains Mono','Fira Code','SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.w{fill:#FFFFFF} .t{fill:#E6EDF3} .m{fill:#8B949E} .a{fill:#16C68E} .a2{fill:#5EF2C0}
+.b{font-weight:700} .sb{font-weight:600}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes slideIn{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:translateX(0)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+.fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
+.fi{animation:fadeIn .8s ease both}
+.si{animation:slideIn .7s cubic-bezier(.2,.8,.2,1) both}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".6" stop-color="#5EF2C0"/><stop offset="1" stop-color="#16C68E"/></linearGradient>
+<clipPath id="fc"><rect x="1" y="1" width="898" height="228" rx="18"/></clipPath></defs>
+<rect x="1" y="1" width="898" height="228" rx="18" fill="#121212" stroke="#1F2A26"/>
+<g clip-path="url(#fc)"><path d="M0 170 Q112.5 156 225.0 170 Q337.5 184 450.0 170 Q562.5 156 675.0 170 Q787.5 184 900.0 170 Q1012.5 156 1125.0 170 Q1237.5 184 1350.0 170 Q1462.5 156 1575.0 170 Q1687.5 184 1800.0 170 Q1912.5 156 2025.0 170 Q2137.5 184 2250.0 170 V230 H0 Z" fill="#16C68E" fill-opacity="0.1"><animateTransform attributeName="transform" type="translate" values="0 0;-450 0" dur="9s" repeatCount="indefinite"/></path><path d="M0 182 Q75.0 172 150.0 182 Q225.0 192 300.0 182 Q375.0 172 450.0 182 Q525.0 192 600.0 182 Q675.0 172 750.0 182 Q825.0 192 900.0 182 Q975.0 172 1050.0 182 Q1125.0 192 1200.0 182 Q1275.0 172 1350.0 182 Q1425.0 192 1500.0 182 Q1575.0 172 1650.0 182 Q1725.0 192 1800.0 182 Q1875.0 172 1950.0 182 Q2025.0 192 2100.0 182 V230 H0 Z" fill="#16C68E" fill-opacity="0.16"><animateTransform attributeName="transform" type="translate" values="0 0;-300 0" dur="6s" repeatCount="indefinite"/></path><path d="M0 196 Q56.25 189 112.5 196 Q168.75 203 225.0 196 Q281.25 189 337.5 196 Q393.75 203 450.0 196 Q506.25 189 562.5 196 Q618.75 203 675.0 196 Q731.25 189 787.5 196 Q843.75 203 900.0 196 Q956.25 189 1012.5 196 Q1068.75 203 1125.0 196 Q1181.25 189 1237.5 196 Q1293.75 203 1350.0 196 Q1406.25 189 1462.5 196 Q1518.75 203 1575.0 196 Q1631.25 189 1687.5 196 Q1743.75 203 1800.0 196 Q1856.25 189 1912.5 196 Q1968.75 203 2025.0 196 V230 H0 Z" fill="#16C68E" fill-opacity="0.28"><animateTransform attributeName="transform" type="translate" values="0 0;-225 0" dur="4.5s" repeatCount="indefinite"/></path></g>
+<text x="450.0" y="78" text-anchor="middle" class="sans b fu" font-size="32" fill="url(#tg)">Let's build systems that scale.</text>
+<text x="450.0" y="112" text-anchor="middle" class="mono m fu" font-size="13" style="animation-delay:.3s">Open to Backend &amp; Full Stack SDE opportunities  ·  Bhopal, India</text>
+<g class="fi" style="animation-delay:.6s">
+  <circle cx="358.0" cy="140" r="4" fill="#16C68E" style="animation:pulse 1.4s ease-in-out infinite"/>
+  <text x="456.0" y="144" text-anchor="middle" class="mono a sb" font-size="12" letter-spacing="1.5">AVAILABLE FOR HIRE</text>
+</g>
+</svg>
